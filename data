@@ -1,0 +1,194 @@
+https://saithahtisham9.github.io/Verdure-privacy-policy/
+
+
+# Verdure: Scan & PDF Studio — App Store Connect Listing
+
+Copy each section below directly into the matching App Store Connect field.
+Character counts have been verified against Apple's limits.
+
+---
+
+## App Name (26/30 chars)
+Verdure: Scan & PDF Studio
+
+---
+
+## Subtitle (26/30 chars)
+Scan, Convert & Edit Files
+
+---
+
+## Promotional Text (152/170 chars)
+Scan documents, adjust images, convert files, compress JPEGs, and build multi-page PDFs — with fast, convenient processing designed for iPhone and iPad.
+
+---
+
+## Keywords (73/100 chars)
+scanner,document,pdf,convert,compress,image,scan,files,jpeg,png,documents
+
+---
+
+## Description
+
+Verdure is a practical document and image studio for scanning, adjusting, converting, compressing, and building PDF files on your iPhone or iPad.
+
+Scan a document, clean up an image, convert between popular formats, or combine multiple pages into a polished PDF — all from one simple workspace.
+
+DOCUMENT SCANNER
+
+Turn physical documents into digital pages using your device camera. Verdure uses Apple's document scanning technology to detect document edges and help create clean, perspective-corrected scans.
+
+• Scan documents with your camera
+• Automatically detect document boundaries
+• Create multi-page document stacks
+• Review and remove scanned pages
+• Build a PDF from multiple scanned pages
+
+ADJUST & COMPRESS
+
+Prepare images before sharing or exporting them. Choose from built-in looks and adjust the image to suit your needs.
+
+• Original
+• Scan Clean
+• Bold Mono
+• Rich Color
+• Rotate left or right
+• Mirror images horizontally
+• Resize images
+• Adjust JPEG compression quality
+• Export and share your finished image
+
+CONVERT FILES
+
+Convert your images into commonly used formats with a straightforward workflow.
+
+• Convert images to PNG
+• Convert images to JPEG
+• Create single-page PDFs
+• Preserve transparency when exporting supported images as PNG
+• Process files directly on your device
+• Share exported files with other apps
+
+PDF STUDIO
+
+Create multi-page PDF documents from scanned pages or imported images.
+
+• Combine multiple pages into one PDF
+• Choose A4 or US Letter page size
+• Portrait or landscape orientation
+• Add an optional watermark
+• Set a document title
+• Preview and export your finished PDF
+• Share your PDF wherever you need it
+
+LIBRARY & HISTORY
+
+Keep track of your recent work with a simple on-device library.
+
+• View recent processed files
+• See file information and size changes
+• Review scanned and converted documents
+• Keep your workflow organized
+
+PRIVATE BY DESIGN
+
+Verdure is designed around on-device file processing. Your documents and images can be processed directly on your device without requiring an online conversion service.
+
+The app does not require an account to use its core file-processing features.
+
+SIMPLE WORKFLOW
+
+Choose what you need from one place:
+
+Scan → Adjust → Convert → Build PDF → Share
+
+Whether you're digitizing paperwork, preparing an image for sharing, compressing a JPEG, converting an image format, or assembling a multi-page document, Verdure keeps the workflow simple.
+
+FEATURE HIGHLIGHTS
+
+• Document scanning
+• Multi-page PDF creation
+• PNG, JPEG and PDF workflows
+• Image filters and adjustments
+• Image resizing
+• JPEG compression
+• A4 and US Letter PDF sizes
+• Portrait and landscape PDF layouts
+• Optional PDF watermark
+• Recent file history
+• On-device processing
+• Share and export support
+
+Verdure is built for everyday document and image tasks without unnecessary complexity.
+
+---
+
+## Category
+Primary: Photo & Video
+Secondary: Productivity
+
+---
+
+## Screenshot Captions
+
+**Screenshot 1 — Home**
+Headline: Your Complete File Studio
+Caption: Scan, adjust, convert and create PDFs from one simple workspace.
+
+**Screenshot 2 — Document Scanner**
+Headline: Scan Documents With Ease
+Caption: Capture pages with automatic document detection and build clean digital scans.
+
+**Screenshot 3 — Adjust**
+Headline: Clean Up & Improve Images
+Caption: Apply filters, rotate, mirror, resize and adjust image quality before export.
+
+**Screenshot 4 — Convert**
+Headline: Convert Your Images
+Caption: Export images as PNG, JPEG or PDF with a simple conversion workflow.
+
+**Screenshot 5 — PDF Studio**
+Headline: Build Multi-Page PDFs
+Caption: Combine scanned or imported pages into organized PDF documents.
+
+**Screenshot 6 — PDF Options**
+Headline: Create PDFs Your Way
+Caption: Choose A4 or US Letter, portrait or landscape, and add an optional watermark.
+
+---
+
+## App Review Notes
+
+Verdure is a native iOS document and image utility app.
+
+The core functionality can be tested without creating an account or signing in.
+
+To test the main workflow:
+
+1. Open the app and select "Scan Document" to launch the document scanning experience.
+2. Scan one or more document pages.
+3. Review the scanned pages and create a multi-page PDF.
+4. Use "Adjust" to apply image filters, rotate, mirror, resize, or change JPEG compression quality.
+5. Use "Convert" to export an image as PNG, JPEG, or PDF.
+6. Open "PDF Studio" to combine multiple images/pages into a multi-page PDF.
+7. Test A4/US Letter sizing, portrait/landscape orientation, and the optional watermark.
+8. Use the system share sheet to export or share the resulting file.
+
+Verdure's file-processing functionality is designed to operate on-device. No account is required for the core scanning, conversion, image adjustment, compression, or PDF creation workflows.
+
+Camera access is used only to launch the built-in document scanner (VisionKit) so the user can capture physical documents. Photo library access is used only to import the specific photo the user selects via Apple's PhotosPicker — the app does not browse or access the rest of the photo library.
+
+---
+
+## Pre-Submission Checklist (do not skip)
+
+- [ ] NSCameraUsageDescription added in Xcode Info tab
+- [ ] Privacy Policy URL replaced with a live, hosted link (see docx file / privacy policy provided separately)
+- [ ] Support URL replaced with a live, hosted link
+- [ ] PrivacyInfo.xcprivacy file added to the project
+- [ ] Age Rating questionnaire completed (all "None" → 4+)
+- [ ] Content Rights: "No third-party content"
+- [ ] Copyright field filled in App Information
+- [ ] Price tier selected in Pricing and Availability
+- [ ] App Privacy (data collection) section completed in App Store Connect — select "No data collected"
+- [ ] Screenshots uploaded at correct required sizes for each device class
